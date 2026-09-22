@@ -2,10 +2,11 @@
 
 def isPalindrome(x: int) -> bool:
 
-    # add code here
-    print(x)
-    return
+    x = str(x)
+    txt = x [::-1] 
 
+    print(x,txt)
+    return txt == str(x)
 
 # run tests
 print(isPalindrome(10))
