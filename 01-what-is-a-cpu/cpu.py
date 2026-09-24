@@ -8,5 +8,3 @@ for components in cpulist:
     print(components) 
 
 print("Total number of components, registers and buses in a CPU: ", len(cpulist))
-
-#Hello world
