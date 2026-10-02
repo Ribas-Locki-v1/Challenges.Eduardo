@@ -1,5 +1,8 @@
 def sumOfMultiples(n: int) -> int:
-    return -1
+
+return()
+
+    
 
 print(sumOfMultiples(7))
 print(sumOfMultiples(10))
